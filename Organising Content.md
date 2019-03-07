@@ -18,8 +18,8 @@ I want to start with writing down all the topics that I feel are pivotal within 
 * Colour Theory yes
 * HTML yes
 * CSS yes
-* Wireframing/Prototyping
-* User testing
+* Wireframing/Prototyping yes
+* User testing 
 * User research
 * Illustration
 * Branding
@@ -50,7 +50,9 @@ Webpages that helped me build this list:
 [CareerFoundry's UX Designer Course Content] https://careerfoundry.com/en/course/become-a-ux-designer/course-plan
 https://learnui.design/#syllabus
 https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d
-
+https://www.interaction-design.org/literature/article/7-great-tried-and-tested-ux-research-techniques
+https://typedecon.com/blogs/type-glossary 
+http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm
 
 Now, I think thats the bases, that is the main modules (and some lessons for within.) I also need to think about what tasks will be given in each module. Time to organise.
 
@@ -101,9 +103,30 @@ Inspired by Paula Schmer I added this module as I don't want to encourage design
 I don't know what lessons could be in this module, maybe this module just contains a lesson on Paula Schmer, a lesson on breaking the typographic grid, a lesson where we just show them examples of some typographic pieces that broke the rules (as inspiration) and then a *Task:* Create a piece that breaks the typographic rules. This piece can be as big or small as you want, and say anything (a lot or a little.)
 
 ### UX
+I was originally going to split it into user testing, research etc but I felt a better way to split this content was with with the purpose the activites; understanding content, creating startegy, ensuring usability etc.
 
-User testing
-* User research
+
+#### UX Fundamentals
+
+Lessons:
+* What is UX?
+* 
+#### Behaviour
+
+Lessons:
+* What is UX?
+* The importance of human behaviour
+* 
+
+#### User testing
+
+Lessons:
+* What is is
+* Why we do it
+* Methods
+
+
+#### User research
 Lessons:
 * 
 

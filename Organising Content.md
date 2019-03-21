@@ -73,6 +73,8 @@ Ideas:
 * Branding yourself and Positioning
 * Pricing
 
+Task: Set-up social medias and position yourself.
+
 #####Sources:
 * http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm
 
@@ -91,6 +93,8 @@ Lessons:
 * Pairing Fonts
 * Readability
 
+Task: Layout sample text hierarchy
+
 #### Typography for the Web and Interfaces
 
 Lessons:
@@ -100,10 +104,14 @@ Lessons:
 * Using standard fonts
 * Line-length
 
+Task: Layout type hierarchy within web context
+
 #### Breaking the Rules
 Inspired by Paula Schmer I added this module as I don't want to encourage designers to all fit the mould and stick to a rigid set of rules. While accessibility is important I don't want to encourage designers on this course to create bland items.
 
 I don't know what lessons could be in this module, maybe this module just contains a lesson on Paula Schmer, a lesson on breaking the typographic grid, a lesson where we just show them examples of some typographic pieces that broke the rules (as inspiration) and then a *Task:* Create a piece that breaks the typographic rules. This piece can be as big or small as you want, and say anything (a lot or a little.)
+
+Task: Create a Paula Scher inspired piece - anything you want.
 
 #####Sources:
 * https://typedecon.com/blogs/type-glossary 
@@ -122,7 +130,6 @@ Lessons:
 #### Behaviour
 
 Lessons:
-* What is UX?
 * The importance of human behaviour
 * Human - Screen Interaction
 * 
@@ -142,6 +149,8 @@ Lessons:
 * Recording Results
 * Analysing Results
 
+Task: Create a user persona for said project.
+
 #####Sources:
 * https://www.usability.gov/how-to-and-tools/methods/user-research/index.html
 * https://www.interaction-design.org/literature/article/7-great-tried-and-tested-ux-research-techniques
@@ -158,6 +167,8 @@ Lessons:
 * Using Grids
 * Using the Golden Ratio
 * Visual hierarchy
+
+Task: Create several low-fi layouts focusing on alignment, spacing and sizing.
 
 #### Paper Prototyping
 
@@ -178,6 +189,8 @@ Lessons:
 * Text
 * Photos and Video
 
+Task: Position several components within a pre-existing UI, changing it to suit.
+
 #### Responsive UI
 
 Lessons:
@@ -187,7 +200,7 @@ Lessons:
 * Thinking about Humans
 * An interactive right/wrong game that helps teach designers which UI is correct for different viewports with vast visual examples, inspired by [Jony Ive's game] https://cantunsee.space/
 
-*Task:* Converting computer wireframes into tablet, mobile and TV
+*Task:* Converting web wireframes into tablet, mobile and TV
 
 #### Using Sketch
 
@@ -250,6 +263,8 @@ Lessons:
 * Empathy
 * Research
 
+Task: Write copy for a company about page from a video from the CEO.
+
 #####Sources:
 * https://expresswriters.com/6-basic-skills-and-qualities-every-copywriter-should-have/
 
@@ -281,6 +296,8 @@ Lessons:
 * Class
 * ID
 
+Task: Update basic HTML portfolio to include these - in relevant places.
+
 #### CSS Basics
 
 Lessons:
@@ -295,6 +312,8 @@ Lessons:
 * Height/Width
 * Fonts
 * Navigation
+
+Task: Add CSS to portfolio
 
 #### CSS 2 
 
@@ -328,6 +347,7 @@ Lessons:
 * Flexbox
 * Media Queries
 * Frameworks
+* BEM naming conventions
 
 #### CSS Grid
 

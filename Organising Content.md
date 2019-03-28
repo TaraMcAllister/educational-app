@@ -42,6 +42,8 @@ I want to start with writing down all the topics that I feel are pivotal within 
 * Getting yourself out there, "creative confidence"?
 * Branding yourself
 * Pricing and positioning
+* Motion
+
 
 
 Webpages that helped me build this list:
@@ -283,13 +285,13 @@ Lessons:
 * iframes
 * Lists
 * Buttons
-* HTML5 Semantics
 
 *Task for this module:* Basic html portfolio with no stylings
 
-#### HTML 2 
+#### HTML5
 
 Lessons:
+* HTML5 Semantics
 * Quotations
 * Forms
 * Block & Inline

@@ -87,7 +87,7 @@ I have decided that typography should be it's own module and be quite high-up in
 
 Lessons:
 * Terminology
-* Typography across the ages
+* Typography in history
 * Finding the right typeface
 * Typographic hierarchy
 * Styling text
@@ -97,10 +97,10 @@ Lessons:
 
 Task: Layout sample text hierarchy
 
-#### Typography for the Web and Interfaces
-
+#### Digital Typography
 Lessons:
 * Type hierachy on the web
+* Type on mobile
 * Accessible type
 * User Reading habits (user attention spans, how users scan on the web etc - https://www.nngroup.com/articles/how-users-read-on-the-web/)
 * Using standard fonts
@@ -169,6 +169,7 @@ Lessons:
 * Using Grids
 * Using the Golden Ratio
 * Visual hierarchy
+* Colour for UI
 
 Task: Create several low-fi layouts focusing on alignment, spacing and sizing.
 
@@ -231,7 +232,6 @@ Lessons:
 * Using Colour
 * Applying visual hierarchy
 * Creating colour schemes
-* High-fi
 
 *Task for this module:* Create a low-fi, mid-fi and high-fi prototype
 
@@ -246,9 +246,10 @@ Lessons:
 #### Copywriting
 Lessons:
 * Copy first
-* How users read
 * Spelling
 * Grammar
+* Empathy
+* Research
 * Polished writing
     * -> Creating easy-to-read content
     * -> Making complex topics simple
@@ -257,13 +258,14 @@ Lessons:
     * -> Selecting the best vocabulary words within a specific context
     * -> Developing an attention-grabbing opener
     * -> Using the correct style
+
+#### Copywriting for the web
+* How users read
 * Punchy Titles
 * Everyday language
 * Refining
 * Call to Actions
 * User Journeys
-* Empathy
-* Research
 
 Task: Write copy for a company about page from a video from the CEO.
 
@@ -288,7 +290,7 @@ Lessons:
 
 *Task for this module:* Basic html portfolio with no stylings
 
-#### HTML5
+#### HTML 2
 
 Lessons:
 * HTML5 Semantics
@@ -365,8 +367,140 @@ Lessons:
 Lessons:
 * Metadata
 * Favicon
-* SEO
 * Scores
 * Using analytics
 
 *Task for this module:* Optimise portfolio site
+
+#### SASS
+
+Lessons:
+* First Sass Stylesheet
+* Refactoring
+* Variables
+* Nesting
+* Mixins and the &
+* Functions and Operations
+* Sustainable SCSS
+
+*Task for this module:* Animating a company logo
+
+#### JavaScript Basics
+
+Lessons:
+* What and why?
+* Variables
+* Conditional Statements
+* Functions
+* Scope
+* Arrays
+* Loops
+
+#### JavaScript 2
+
+Lessons:
+* Iterators
+* Objects
+* Classes
+* Browser Compatibility
+* Transpilation
+
+#### JavaScript 3
+
+Lessons:
+* Modules
+* Promises
+* Async-Await
+* Requests
+
+### SEO
+
+#### SEO Essentials
+
+Lessons:
+* What is SEO?
+* Links
+* Content Variation
+* alt Attributes
+* Metadata
+* Optimization 
+* Mapping
+
+#####Sources
+
+* https://www.wordstream.com/blog/ws/2015/04/30/seo-basics
+
+
+### Information Architecture (IA)
+
+#### Three Pillars
+
+Lessons:
+* Users
+* Context
+* Content
+* Together
+
+#### Organising Schemes and Structures
+
+Lessons:
+* What? Why? When?
+* Alphabetical
+* Chronological
+* Geographical
+* Topic
+* Task
+* Audience
+* Metaphor
+
+#### Labeling Systems
+
+Lessons:
+* What? Why? When?
+* Systems not labels
+* Creating
+* Fine-tuning
+* Non-Representational
+
+#### Navigation Systems
+
+Lessons:
+* What? Why? When?
+* Hierarchial
+* Global
+* Local
+* Ad Hoc
+
+#### Search Systems
+
+Lessons:
+* What? 
+* Use Cases
+* Basic anatomy
+* What needs to be searchable
+* Presenting results
+* Interface design
+
+##### Sources:
+* https://docstore.mik.ua/orelly/web2/infoarch/ch05_04.htm
+* https://docstore.mik.ua/orelly/web2/infoarch/ch05_01.htm
+* https://www.oreilly.com/library/view/information-architecture-for/1565922824/ch04s04.html
+* https://www.oreilly.com/library/view/information-architecture-for/0596527349/ch08.html
+
+
+### Branding
+
+
+### Data Visualisation
+
+
+### Iconography
+
+
+### Graphic Design
+
+
+### Illustration
+
+
+

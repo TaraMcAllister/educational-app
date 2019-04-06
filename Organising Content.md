@@ -66,7 +66,7 @@ The tasks allow the users to create pieces based on the knowledge they are gaini
 ### Fundamentals
 Maybe a section that everyone across all learning paths completes. Some select core knowledge that all paths will need to suceed?
 
-Ideas:
+Lessons:
 * Colour theory; traditional colour theory however also including tone, shade and using contrast to create accessible products.
 * Accessibile design across mediums
 * Finding Inspiration 
